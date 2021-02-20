@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="movieSearchHint">Movie Search</string>
+    <string name="searchButton">Search</string>
+    <string name="dummyMovieName">Batman</string>
+    <string name="dummyMovieYear">2005</string>
+    <string name="dummyMovieType">movie</string>
+</resources>
