@@ -96,6 +96,7 @@ class MovieSearchFragment : Fragment() {
 
         alert.setTitle("Sorry..")
         alert.setMessage("No result for this keyword")
+        alert.setIcon(R.drawable.popcorn)
         alert.setCancelable(false)
 
         alert.setPositiveButton("Ok") { dialogInterface: DialogInterface, i: Int ->
